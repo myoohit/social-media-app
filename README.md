@@ -13,7 +13,8 @@ This project aims to build a space where:
 I designed the **Figma prototype** and **user workflow**, focusing on clean navigation and intuitive user experience.
 ### PDF also available
 
-## Page 2 of the figma
+## Page 2 of the figma(download it)
+
 👉https://www.figma.com/design/ZmA6pmuMmxUqGu7mJZwCbC/App?node-id=114-2&t=kVkU8SEJtHLApgQQ-1
 
 ## 🧠 Workflow
