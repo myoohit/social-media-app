@@ -25,5 +25,5 @@ I designed the **Figma prototype** and **user workflow**, focusing on clean navi
 view the designs in the pdf or with the link here
 
 
+https://www.figma.com/design/ZmA6pmuMmxUqGu7mJZwCbC/App?node-id=114-2&t=kVkU8SEJtHLApgQQ-1
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/khEbxNcHl56vuOa8TIQ1zm/App?node-id=114-2&embed-host=share" allowfullscreen></iframe>
