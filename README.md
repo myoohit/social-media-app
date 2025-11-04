@@ -11,8 +11,8 @@ This project aims to build a space where:
 
 ## 🎨 My Contribution
 I designed the **Figma prototype** and **user workflow**, focusing on clean navigation and intuitive user experience.
-
-👉 [View Figma Design](#) *(Replace `#` with your actual Figma link)*
+## Page 2 of the figma
+👉https://www.figma.com/design/ZmA6pmuMmxUqGu7mJZwCbC/App?node-id=114-2&t=kVkU8SEJtHLApgQQ-1
 
 ## 🧠 Workflow
 1. Research & wireframing  
@@ -22,9 +22,3 @@ I designed the **Figma prototype** and **user workflow**, focusing on clean navi
 
 ## 🛠️ Tools Used
 - Figma  
-view the designs in the pdf or with the link here
-## Page 2 of the figma
-
-
-https://www.figma.com/design/ZmA6pmuMmxUqGu7mJZwCbC/App?node-id=114-2&t=kVkU8SEJtHLApgQQ-1
-
