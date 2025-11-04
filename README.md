@@ -23,6 +23,7 @@ I designed the **Figma prototype** and **user workflow**, focusing on clean navi
 ## 🛠️ Tools Used
 - Figma  
 view the designs in the pdf or with the link here
+##page 2 of the figma 
 
 
 https://www.figma.com/design/ZmA6pmuMmxUqGu7mJZwCbC/App?node-id=114-2&t=kVkU8SEJtHLApgQQ-1
